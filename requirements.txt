@@ -1,0 +1,5 @@
+openai
+chromadb
+requests
+tqdm  # Optional but recommended for progress bars
+python-dotenv  # For loading environment variables from .env file 

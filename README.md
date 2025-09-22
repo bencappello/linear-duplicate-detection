@@ -8,7 +8,7 @@ An AI-powered system to automatically detect and flag duplicate tickets in Linea
 2. **Semantic Search**: Uses OpenAI embeddings to find similar tickets based on content
 3. **AI Analysis**: GPT-4 analyzes similarities and determines duplicates with confidence scores
 4. **Automated Actions**: Labels duplicates, links related issues, and adds detailed comments
-5. **Chronological Protection**: Ensures newer tickets are never marked as duplicates of older ones (critical for bug bounty programs)
+5. **Chronological Protection**: Ensures older tickets are never marked as duplicates of newer ones (critical for bug bounty programs)
 
 ## 📁 Project Structure
 

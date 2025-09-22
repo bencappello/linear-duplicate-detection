@@ -302,7 +302,7 @@ Please review this assessment. If incorrect, you can unlink the issues.
 
 ### 2. Chronological Protection
 - Only considers tickets created **before** the current ticket
-- Prevents newer tickets from being marked as duplicates of older ones
+- Prevents older tickets from being marked as duplicates of newer ones
 - Critical for bug bounty programs where first reporter gets credit
 
 ### 3. AI Analysis
